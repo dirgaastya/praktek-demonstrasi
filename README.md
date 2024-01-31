@@ -1,7 +1,7 @@
-NAMA: DIRGA ASTYA WISNUWARDANA
-UNIVERSITAS: ADHIRAJASA RESWARA SANJAYA
-KELOMPOK: A
 
+| Name                       | Universitas                | Kelompok  |
+| -------------------------- | -------------------- | ------ |
+| Dirga Astya Wisnuwardana | ARS University | A |
 ## Setup Laravel Packages and Migrations
 
 

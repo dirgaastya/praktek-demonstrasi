@@ -44,6 +44,7 @@ class ParticipantController extends Controller
             'no_hp' => $request->input('no_hp'),
         ]);
         $participant->save();
+        return redirect()->route('welcome')->with('success', 'Scheme updated successfully');
     }
 
     /**

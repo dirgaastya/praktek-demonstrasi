@@ -1,4 +1,10 @@
+NAMA: DIRGA ASTYA WISNUWARDANA
+UNIVERSITAS: ADHIRAJASA RESWARA SANJAYA
+KELOMPOK: A
+
 ## Setup Laravel Packages and Migrations
+
+
 
 ### Make sure you do this before setup on bash
 
